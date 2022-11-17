@@ -8,7 +8,7 @@ Inspired by ["Learning Clojure in Public"](https://github.com/alaq/learning-cloj
 
 | Post | Date       | Topics                                                   |
 | ---- | ---------- | -------------------------------------------------------- |
-| 1    | 11/16/2022 |                                                          |
+| 1    | 11/16/2022 | Learning the Basics of Python | Codewar Practice         |
 | 2    | 11/xx/2022 |                                                          |
 | 3    | 11/xx/2022 |                                                          |
 | 4    | 11/xx/2022 |                                                          |
@@ -25,13 +25,13 @@ Inspired by ["Learning Clojure in Public"](https://github.com/alaq/learning-cloj
 | 15   | 11/xx/2022 |                                                          |
 
 
-| Resource | Name       | free/paid | Link | Chapters/Sections |
-| -------- | ---------- | --------- | ---- | ----------------- |
-| 1        | 11/16/2022 |           |      |                   |
-| 2        | 11/xx/2022 |           |      |                   |
-| 3        | 11/xx/2022 |           |      |                   |
-| 4        | 11/xx/2022 |           |      |                   |
-| 5        | 11/xx/2022 |           |      |                   |
-| 6        | 11/xx/2022 |           |      |                   |
-| 7        | 11/xx/2022 |           |      |                   |
-| 8        | 11/xx/2022 |           |      |                   |
+| Resource | Name                                  | Price | Link                                                                                  |
+| -------- | ------------------------------------  | ----- | ------------------------------------------------------------------------------------- | 
+| Book     | Automate the Boring Stuff with Python | paid  | [Link](https://www.amazon.com/Automate-Boring-Stuff-Python-Programming/dp/1593275994) |       
+| 2        | Name goes here                        |       |                                                                                       |       
+| 3        | Name goes here                        |       |                                                                                       |       
+| 4        | Name goes here                        |       |                                                                                       |       
+| 5        | Name goes here                        |       |                                                                                       |       
+| 6        | Name goes here                        |       |                                                                                       |
+| 7        | Name goes here                        |       |                                                                                       |
+| 8        | Name goes here                        |       |                                                                                       |
