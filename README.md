@@ -1,8 +1,8 @@
 # Learning Python in Public
-(Starting Soon)
+(Starting on January 1st)
 Learning Python in public for 6 Months
 
-Starting today, I am challenging myself to learn Python (and any related topics) to become a job ready data engineer. For the first month I will be learning the basics of Python before moving onto more advanced topics and frameworks (if frameworks are not in the first month). Any resource that I use in this journey will be in the resource section and I will highlight the section(s) that were used that day; I will also disclose if those resources are free or paid
+Starting in January, I am challenging myself to learn Python (and any related topics) to become a job ready data engineer. For the first month I will be learning the basics of Python before moving onto more advanced topics and frameworks (if frameworks are not in the first month). Any resource that I use in this journey will be in the resource section and I will highlight the section(s) that were used that day; I will also disclose if those resources are free or paid
 
 Inspired by ["Learning Clojure in Public"](https://github.com/alaq/learning-clojure-in-public)
 
